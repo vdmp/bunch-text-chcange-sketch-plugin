@@ -1,0 +1,27 @@
+{
+    "name" : "Bunch text change",
+    "description" : "Change text on several text layers at once",
+    "author" : "Vadim",
+    "authorEmail" : "vadimpleshkov@gmail.com",
+    "version" : "0.1",
+    "identifier" : "me.vadimpleshkov.sketch.Scoperename",
+
+
+
+    "commands" : [
+    {
+      "script" : "changetext.js",
+      "handler" : "changeText",
+      "shortcut" : "shift command k",
+      "name" : "Change Texts",
+
+      "identifier" : "change Text"
+    },
+  ],
+   "menu" : {
+   	"title" : "Bunch Text Change",
+   	"items" : [
+   		"change Text"
+   	]
+   }
+}
