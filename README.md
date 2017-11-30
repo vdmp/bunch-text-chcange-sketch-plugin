@@ -20,5 +20,15 @@ Here is how it works:
 
 ![Example2](/screenshots/example2.gif)
 
+#### How to install
+
+Download and double-click on  TextChanger.sketchplugin
+
+or
+
+Install via [Runner](http://sketchrunner.com/)
+
+![Example3](/screenshots/runner_install.png)
+
 I hope you'll find it helpful,
 have a nice day!
