@@ -3,7 +3,7 @@
     "description" : "Change text on several text layers at once",
     "author" : "Vadim",
     "authorEmail" : "vadimpleshkov@gmail.com",
-    "version" : "0.1",
+    "version" : "0.2",
     "identifier" : "me.vadimpleshkov.sketch.Scoperename",
 
 
@@ -12,7 +12,7 @@
     {
       "script" : "changetext.js",
       "handler" : "changeText",
-      "shortcut" : "shift command k",
+      "shortcut" : "alt command k",
       "name" : "Change Texts",
 
       "identifier" : "change Text"

@@ -4,7 +4,7 @@ Here is a little plugin for changing several text layers at once.
 
 Here is how it works:
 1. Select several layers
-2. Hit cmd+shift+k (you can change shortcut in System Preferences)
+2. Hit alt+cmd+k (you can change shortcut in System Preferences)
 3. Set new value and hit enter
 4. Done!
 
@@ -32,3 +32,7 @@ Install via [Runner](http://sketchrunner.com/)
 
 I hope you'll find it helpful,
 have a nice day!
+
+#### v. 0.2
+
+In Sketch 48 cmd+shift+k shortcut is assigned to Change Color Profile, so i've changed shortcut to alt+cmd+k. You still can rearrange shortcuts as you prefer in System Preferences
