@@ -80,7 +80,7 @@ var loopChange = function(context) {
     if ([layer class] == MSTextLayer && layerName.substr(0,1) != '-') {
 
         			  [layer setStringValue: newText];
-
+                [layer setName: newText];
                 };
       };
 };
